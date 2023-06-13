@@ -1,0 +1,17 @@
+.clock-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 48px;
+    font-weight: bold;
+  }
+  
+
+  body {
+    background: linear-gradient(to right, #2d388a, #00aeef, #00ddff);
+  }
+
+  .white-color {
+    color: white;
+  }
